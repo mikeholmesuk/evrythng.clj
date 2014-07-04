@@ -16,3 +16,7 @@
 (defn update-thng
   [id thng & [options]]
   (api-action :put "thngs/%s" id thng))
+
+(defn delete-thng
+  [id & [options]]
+  (api-action :delete "thngs/%s" id))
