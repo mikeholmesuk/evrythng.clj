@@ -1,4 +1,4 @@
 evrythng.clj
 ============
 
-An implementeation of the Evrythng SDK written in clojure.
+An implementation of the Evrythng SDK written in clojure.
